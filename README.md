@@ -1,4 +1,4 @@
-# Pose Detection Assessment - Real-time Data Visualization
+# Pose Detection Assessment
 
 This is my implementation of the real-time pose detection data visualization challenge. I decided to use a clean MVVM architecture approach that keeps things organized and scalable for future extensions.
 
